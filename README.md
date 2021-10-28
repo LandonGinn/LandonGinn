@@ -1,7 +1,5 @@
-### Hi there, I'm Landon. The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+### Hi there, I'm Landon. 
+# The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
 
 ## About Me
 
@@ -21,8 +19,21 @@
 <br />
 
 ### Code Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=landonginn&show_icons=true&theme=dracula)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=landonginn&show_icons=true&theme=dracula&count_private=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonginn&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonginn&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Projects that use my python tools
+
+[Star Trek: Prodigy](https://www.imdb.com/title/tt9795876/)
+[Rugrats Reloaded](https://www.imdb.com/title/tt8741368)
+[Kamp Koral](https://www.imdb.com/title/tt10436284)
+Wonder Park - TV
+[Lucky](https://www.imdb.com/title/tt9803152/)
+[Teenage Mutant Ninja Turtles](https://www.imdb.com/title/tt1877889)
+[Albert](https://www.imdb.com/title/tt6254874)
+[Fire Emblem: Fates](https://www.nintendo.com/games/detail/fire-emblem-fates-conquest-3ds/)
+[Miku Hatsune Project Mirai](https://www.nintendo.com/games/detail/hatsune-miku-project-mirai-dx-3ds/)
+Envoy
+Zero Point
