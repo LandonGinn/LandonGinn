@@ -12,11 +12,6 @@
 
 <br />
 
-### Recent Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=landonginn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
 ### Code Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=landonginn&show_icons=true&theme=dracula&count_private=true)]
 
