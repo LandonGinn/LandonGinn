@@ -13,9 +13,8 @@
 <br />
 
 ### Recent Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viacombcbs&repo=nas-prod-hive)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viacombcbs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 <br />
 
 ### Code Stats
