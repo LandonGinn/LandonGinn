@@ -1,25 +1,25 @@
 ![LG Logo](./images/logo.png)
-### Hi there, I'm Landon. 
-#### The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
+Hi there, I'm Landon. 
+The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
 
-## About Me
+About Me
 
 - 🐍 Python Programmer Primarily.
 - 🌱 The Research never ends. Always trying to learn new things.
 - 🦊 I have a Shiba Inu named Pixel.
 - ⚡ 2022 is going to be the dawn of new technological movement.
-- 🎶 Check out my __SOUNDCLOUD__
+- 🎶 Check out my [SoundCloud](https://soundcloud.com/landon-ginn-375636184)
 - 💮 まだ古代の生活ことを献身してる人はほとんどいません
 
 <br />
 
-### Code Stats
+Code Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=landonginn&show_icons=true&theme=dracula&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonginn&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Projects I have developed tools for:
+Projects I have developed tools for:
 
 - [Star Trek: Prodigy](https://www.imdb.com/title/tt9795876/)
 - [Rugrats Reloaded](https://www.imdb.com/title/tt8741368)
