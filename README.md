@@ -1,8 +1,8 @@
 ![LG Logo](./images/logo.png)
 ### Hi there, I'm Landon. 
-The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
+#### The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
 
-About Me
+## About Me
 
 - 🐍 Python Programmer Primarily.
 - 🌱 The Research never ends. Always trying to learn new things.
