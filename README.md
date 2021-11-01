@@ -8,7 +8,7 @@
 - 🌱 The Research never ends. Always trying to learn new things.
 - 🦊 I have a Shiba Inu named Pixel.
 - ⚡ 2022 is going to be the dawn of new technological movement.
-- 🎶 Check out my [SoundCloud](https://soundcloud.com/landon-ginn-375636184)
+- 🎶 Check out my __SOUNDCLOUD__
 - 💮 まだ古代の生活ことを献身してる人はほとんどいません
 
 <br />
