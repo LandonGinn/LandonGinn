@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landonginn&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Projects that use my python tools
+## Projects I have developed tools for:
 
 - [Star Trek: Prodigy](https://www.imdb.com/title/tt9795876/)
 - [Rugrats Reloaded](https://www.imdb.com/title/tt8741368)
