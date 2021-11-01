@@ -1,5 +1,5 @@
 ![LG Logo](./images/logo.png)
-Hi there, I'm Landon. 
+### Hi there, I'm Landon. 
 The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
 
 About Me
