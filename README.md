@@ -1,4 +1,4 @@
-<center>![LG Logo](./images/logo.png)</center>center>
+<center>![LG Logo](./images/logo.png)</center>
 ### Hi there, I'm Landon. 
 #### The Asset Technical Director Currently Working on Star Trek Prodigy.🖖✨
 
